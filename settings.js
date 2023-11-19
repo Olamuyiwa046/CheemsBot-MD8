@@ -42,7 +42,7 @@ global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "😎𝑩𝑼𝑴𝑩𝑼𝑴😎"
 global.author = ".......\n\n"
 global.creator = "916909137213@s.whatsapp.net"
-global.prefa = ['','😎','.','😎','4']
+global.prefa = ['.','😎','.','😎','4']
 global.sessionName = 'session'
 global.hituet = 0
 
