@@ -29,7 +29,7 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "nigetia, lagos, abuja" //ur location
 
 //new
-global.botname = "𝐋𝐄𝐋 𝐂𝐑𝐔𝐈𝐒𝐄𝐑𝐒 𝐁𝐎𝐓🤪📚🔞"
+global.botname = "🤪𝑨𝑺𝑲_𝑶𝑭_𝑩𝑼𝑴𝑩𝑼𝑴🤪"
 global.ownernumber = '2349156305896'
 global.ownername = '𝐁𝐔𝐌𝐁𝐔𝐌 𝐓𝐕🤪'
 global.ownerNumber = ["2349156305896@s.whatsapp.net"]
@@ -39,8 +39,8 @@ global.wagc = "https://wa.me/+2349010895477"
 global.themeemoji = '🤪'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "🤪𝐁𝐔𝐌𝐁𝐔𝐌 𝐓𝐕"
-global.author = "𝐋𝐄𝐋 𝐂𝐑𝐔𝐈𝐒𝐄𝐑𝐒 𝐁𝐎𝐓🤪📚🔞\n\n"
+global.packname = "🤪𝐁𝐔𝐌𝐁𝐔𝐌"
+global.author = "𝑨𝑺𝑲_𝑶𝑭_𝑩𝑼𝑴𝑩𝑼𝑴🤪\n\n"
 global.creator = "916909137213@s.whatsapp.net"
 global.prefa = ['','!','.','#','🤪']
 global.sessionName = 'session'
